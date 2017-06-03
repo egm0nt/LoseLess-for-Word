@@ -6,6 +6,12 @@ Smart and easy-to-use Add-In for Microsoft Office Word for text recovering if ke
  
 The algorithm is pretty simple and it is based on character replacement according the chosen keyboard layout. LoseLess is an enclosure to the algorithm – beautiful Microsoft Office Word plugin with some features and settings.
 
+You can:
+- rely on our automatic language detector, or
+- manually switch the languange necessary
+- normalize Letter Case in text
+- undo the recovery
+
 > **Features**.
 > 
 > Text is in wrong keyboard layout? Don't lose it again! Just select it and press "Recovery text". LoseLess will do the dirty work for you.
