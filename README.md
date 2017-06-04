@@ -39,6 +39,8 @@ There are two ways to add LoseLess to your Word app:
 - Find *publish* folder and run setup.exe. Setup will set up everything automatically.
 - Find *publish* folder and manually add LoseLess.vsto to the office app by opening the Add-In settings in Insert section.
 
+To recover the text, just **select** it and **press** *recover text* in the Add-In menu.
+
 **IMPORTANT:** this version of LoseLess supports Microsoft Office Word for Microsoft Windows only.
 
 
