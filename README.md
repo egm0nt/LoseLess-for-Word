@@ -1,4 +1,4 @@
-# LoseLess
+# ![modules](https://raw.githubusercontent.com/egm0nt/LoseLess-for-Word/master/readme-files/icon.png) LoseLess
 
 Smart and easy-to-use Add-In for Microsoft Office Word for text recovering if keyboard layout was wrong
 
