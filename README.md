@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://cdn.rawgit.com/krlc/LoseLess-for-Word/0da5a2b4/readme-files/icon.svg" alt="Icon" width="300"/>
-  <br>
+  <br><br>
  <p>Smart and easy-to-use Add-In for Microsoft Office Word for text recovering if keyboard layout was wrong</p>
 </div>
 
