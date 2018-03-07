@@ -1,8 +1,10 @@
-# ![modules](https://raw.githubusercontent.com/egm0nt/LoseLess-for-Word/master/readme-files/icon.png) LoseLess
+<div align="center">
+    <img src="https://cdn.rawgit.com/krlc/LoseLess-for-Word/0da5a2b4/readme-files/icon.svg" alt="Icon" width="300"/>
+  <br>
+ <p>Smart and easy-to-use Add-In for Microsoft Office Word for text recovering if keyboard layout was wrong</p>
+</div>
 
-Smart and easy-to-use Add-In for Microsoft Office Word for text recovering if keyboard layout was wrong
-
-## Overview
+# Overview
  
 The algorithm is pretty simple and it is based on character replacement according the chosen keyboard layout. LoseLess is an enclosure to the algorithm – beautiful Microsoft Office Word plugin with some features and settings.
 
@@ -12,27 +14,26 @@ You can:
 - normalize Letter Case in text
 - undo the recovery
 
-> **Features**.
-> 
-> Text is in wrong keyboard layout? Don't lose it again! Just select it and press "Recovery text". LoseLess will do the dirty work for you.
->
-> **Performance**.
-> 
-> LoseLess recovers 10,000 words 100x faster that Usain Bolt runs 200 meters*.
->
-> **Intellect**.
-> 
-> LoseLess knows that "ghbdtn" is "привет" and "рщц фку нщг," is "how are you?".
+# Some info
+
+## Features
+Text is in wrong keyboard layout? Don't lose it again! Just select it and press "Recovery text". LoseLess will do the dirty work for you.
+
+## Performance
+LoseLess recovers 10,000 words 100x faster that Usain Bolt runs 200 meters<sup>*</sup>.
+
+## Intellect
+LoseLess knows that "ghbdtn" is "привет" and "рщц фку нщг," is "how are you?".
 
 This project also contains the ready project for Visual Studio (Lossless.csproj).
 
-## Language support
+# Language support
 
 Currently, LoseLess supports english and russian only. The main difficulty is connected with the support of keyboard layout – special letters. At current state we are limited with the VSTO API, and it is imposible to track when system keys are pressed. Therefore it is impossible to track when the special letters like ā or š are used.
 
 Nevertheless, LoseLess is localized to english, russian and latvian. The plugin detects the language automatically, according the system language of the Word app. Feel free to add other localizations.
 
-## How to use
+# How to use
 
 There are two ways to add LoseLess to your Word app:
 
