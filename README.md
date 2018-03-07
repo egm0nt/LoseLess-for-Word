@@ -6,7 +6,7 @@
 
 # Overview
  
-The algorithm is pretty simple and it is based on character replacement according the chosen keyboard layout. LoseLess is an enclosure to the algorithm – beautiful Microsoft Office Word plugin with some features and settings.
+The algorithm is pretty straightforward – based on character replacement according the chosen keyboard layout. LoseLess is an enclosure to the algorithm – beautiful Microsoft Office Word plugin with some features and settings.
 
 You can:
 - rely on our automatic language detector, or
